@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+:root {
+  --background: #F6F8FB; --foreground: #152033; --card: #FFFFFF;
+  --primary: #2F6BFF; --primary-foreground: #ffffff; --muted: #EDF0F7;
+  --muted-foreground: #637089; --destructive: #E5484D; --success: #16A37B;
+  --warning: #F59E0B; --border: #C8CDD8; --input: #E6EAF2; --ring: #2F6BFF;
+  --radius: 0.75rem;
+}
+body {
+  background-color: #F6F8FB; color: #152033;
+  font-family: 'Inter', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
